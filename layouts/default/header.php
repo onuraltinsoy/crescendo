@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">  
     <meta name="author" contant="Onur Altınsoy <info@onuraltinsoy.com>">
     <title>Crescendo PHP Framework</title>
+    <link rel="icon" href="assets/img/favicon.png">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
