@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">  
-    <title>Infusion WP Theme</title>
+    <meta name="author" contant="Onur Altınsoy <info@onuraltinsoy.com>">
+    <title>Crescendo PHP Framework</title>
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
@@ -32,7 +33,7 @@
                 <li><a href="?r=post/myposts">My Posts</a></li>
                 <li><a href="?r=post/create">Add Posts</a></li>
                 <?php endif; ?>
-                <li><a href="?r=post/create">Download</a></li>
+                <li><a href="https://github.com/onuraltinsoy/crescendo" target="_blank">Download</a></li>
                 <?php if(isset($_SESSION['username'])): ?>
                 <li><a href="?r=user/logout">Logout</a></li>
                 <li><a href="?r=user/update&id=<?php echo $_SESSION['id']; ?>"><img src="assets/img/user/default.png" style="width: 18px;"><?php echo $_SESSION['username']; ?></a></li>

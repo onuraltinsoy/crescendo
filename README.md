@@ -18,15 +18,15 @@ Tinymce wysiwyg editor
 <br>
 
 **tr**<br>
-Crescendo elastik ve geliştirilebilir mvc mimarisi ile geliştirilmiş php frameworktür
+Crescendo elastik ve geliştirilebilir, mvc mimarisi ile oluşturulmuş php frameworktür
 
 Activerecord kütüphanesi ile hızlı ve kolay veritabanı ilişkileri
 
 Smarty Template Engine ile arayüz geliştiricileri için temiz kodlar
 
-Layout desteği ile birden fazla tema kullanılabilir
+Layout desteği ile birden fazla tema kullanımı
 
-Tinymce gelişmiş text editor
+Tinymce gelişmiş text editor desteği bulunmaktadır.
 ## Install
 **en**<br>
 install with composer<br>
