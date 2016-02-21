@@ -1,7 +1,9 @@
 # crescendo
 Crescendo is elastic and developable mvc based php framework.
 ## Demo
-[jQuery CSS Tetris Demo](http://www.onuraltinsoy.com/crescendo)
+[jQuery CSS Tetris Demo](http://www.onuraltinsoy.com/crescendo)<br>
+login: admin@example.com<br>
+password: admin<br>
 ## Description
 **en**<br>
 Crescendo is elastic and developable mvc based php framework.
